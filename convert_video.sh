@@ -1,4 +1,4 @@
-#! bin/bash
+#! /bin/bash
 
 WATCH_FOLDER=~/Videos/to_be_converted/*
 
